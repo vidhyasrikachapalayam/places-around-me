@@ -10,12 +10,6 @@ Write your own steps here.
 
 ## Code:
 Include your HTML code here
-
-## Output:
-Include your output screenshot here
-
-## Result:
-Write your result
 map.html
 <!DOCTYPE html>
 <html lang="en">
@@ -201,3 +195,9 @@ The uses of Puzhal Lake in puzhal are
 </p>
 </body>
 </html>
+
+## Output:
+recent:///3c4ed4798feb4206fe91b0e063d6a8a1
+
+## Result:
+
