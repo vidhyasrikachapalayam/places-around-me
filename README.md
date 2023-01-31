@@ -194,16 +194,26 @@ The uses of Puzhal Lake in puzhal are
 ```
 ## Output:
 
+![Screenshot (19)](https://user-images.githubusercontent.com/119477817/215650265-1455e893-8065-4fdc-b026-a23aab070007.png)
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/119477817/215650229-dada3903-db46-4aa0-9570-c0065584a086.png)
 
 
 
+![Screenshot (21)](https://user-images.githubusercontent.com/119477817/215650309-beb41524-f87e-4fa4-b8a3-fd4405db21c5.png)
+
+
+![Screenshot (22)](https://user-images.githubusercontent.com/119477817/215650331-a46a32ef-43d5-480e-862e-2f2657dd47cf.png)
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/119477817/215650349-89cf21b9-904f-4811-8007-bf20c825b679.png)
+
+## validator
 
 
 
-
-
-
-
+![Screenshot (24)](https://user-images.githubusercontent.com/119477817/215650827-cd12e356-81a6-4dcf-ade2-30599c15f412.png)
 
 
 ## Result:
